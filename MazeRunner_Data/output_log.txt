@@ -1,0 +1,336 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x412)
+    Vendor:   Intel
+    VRAM:     384 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\moonseop\Desktop\33333\Maze Runner\실행파일\MazeRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\moonseop\Desktop\33333\Maze Runner\실행파일\MazeRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\moonseop\Desktop\33333\Maze Runner\실행파일\MazeRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\moonseop\Desktop\33333\Maze Runner\실행파일\MazeRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\moonseop\Desktop\33333\Maze Runner\실행파일\MazeRunner_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\moonseop\Desktop\33333\Maze Runner\실행파일\MazeRunner_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\moonseop\Desktop\33333\Maze Runner\실행파일\MazeRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\moonseop\Desktop\33333\Maze Runner\실행파일\MazeRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\moonseop\Desktop\33333\Maze Runner\실행파일\MazeRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\moonseop\Desktop\33333\Maze Runner\실행파일\MazeRunner_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2e54 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.644132 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 416.
+Total: 0.741000 ms (FindLiveObjects: 0.052970 ms CreateObjectMapping: 0.044190 ms MarkObjects: 0.262803 ms  DeleteObjects: 0.379865 ms)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 28bc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.611061 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 412.
+Total: 0.395668 ms (FindLiveObjects: 0.035996 ms CreateObjectMapping: 0.023119 ms MarkObjects: 0.193444 ms  DeleteObjects: 0.141644 ms)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename:  Line: 1275)
+
+Posx : 21 Posz : 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
